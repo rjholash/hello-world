@@ -7,4 +7,5 @@ how to use git instructions
 ~~the world is flat~~
 That is so funny :joy:
 
+I like emoji's :think:
  
