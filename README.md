@@ -66,6 +66,7 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 | Paragraph | Text |
 
 ### Fenced Code Block
+! you should notice in the block below doing this on github allows you to copy the code popup on the top right of the code block
 
 ```
 {
