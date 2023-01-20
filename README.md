@@ -5,7 +5,7 @@ how to use git instructions
 3. So I can teach it later... `def function1(argument)`
 ---
 ~~the world is flat~~
-That is so funny :joy:
+That is so funny :joy: 😄
 
 I like emoji's ‼️
 <img src="UC-horz-rgb.png" alt="uc horizontal logo" width="200" height="75">
