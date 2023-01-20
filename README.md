@@ -106,16 +106,20 @@ That is so funny! :joy:
 
 (See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
 
-### Highlight
+### Highlight not supported in github
 
 I need to highlight these == very important words ==.
 
-### Subscript
+I need to highlight these <mark> very important words </mark>.
+
+<span style="background-color: #FFFF00"> This text is highlighted with the html span tags. </span>
+
+### Subscript not supported in github
 
 H~2~O this implementaion of markdown does not support sub-script
 
 H<sub>2</sub>0  you can use html tags to get there
-### Superscript
+### Superscript not supported in github
 
 X^2^ this implementaion of markdown does not support super-script
 
