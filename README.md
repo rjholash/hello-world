@@ -8,4 +8,5 @@ how to use git instructions
 That is so funny :joy:
 
 I like emoji's ‼️
- <img src="UC-horz-rgb.png" alt="uc horizontal logo" width="200" height="75">
+<img src="UC-horz-rgb.png" alt="uc horizontal logo" width="200" height="75">
+# the image tag should appear above
