@@ -130,4 +130,6 @@ X<sup>2</sup>  you can use html tags though
 That is so funny :joy: 😄 The last smily face only appears in html render ie git-pages....
 
 <img src="UC-horz-rgb.png" alt="uc horizontal logo" width="200" height="75">
-### the image is linked with html tags and should appear above
+
+### The image is linked with html tags and should appear above, could you place the image in another folder and create a path to it?
+
