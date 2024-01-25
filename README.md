@@ -109,17 +109,26 @@ That is so funny! :joy:
 
 ### Highlight not supported in github
 
-I need to highlight these == very important words ==.
+I need to highlight these == very important words ==. Normally this would work in markdown
 
-I need to highlight these <mark> very important words </mark>.
+I need to highlight these <mark> very important words </mark>. and this wold work in HTML
 
-<span style="background-color: #FFFF00"> This text is highlighted with the html span tags. </span>
+<span style="background-color: #FFFF00"> This text is highlighted with the html span tags. </span> or this in HTML but they don't in git-hub
+
+
+```diff
++ This is a green highlighted line.
+- This is a red highlighted line.
+This code hack will work though using the diff markup...
+```
+
 
 ### Subscript not supported in github
 
 H~2~O this implementaion of markdown does not support sub-script
 
-H<sub>2</sub>0  you can use html tags to get there
+H<sub>2</sub>0  you can use html tags to get there though
+
 ### Superscript not supported in github
 
 X^2^ this implementaion of markdown does not support super-script
@@ -127,7 +136,7 @@ X^2^ this implementaion of markdown does not support super-script
 X<sup>2</sup>  you can use html tags though
 
 
-That is so funny :joy: 😄 The last smily face only appears in html render ie git-pages....
+That is so funny :joy: 😄 The first smily face only appears in html rendered ie git-pages....
 
 <img src="UC-horz-rgb.png" alt="uc horizontal logo" width="200" height="75">
 
