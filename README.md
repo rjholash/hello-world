@@ -1,4 +1,4 @@
-# Markdown Cheat Sheet... as copied from the markdown guide below. Toggle the edit icon to see the original text
+# Markdown Cheat Sheet... as copied from the markdown guide below. Toggle the edit icon (pencil icon on the top-right of this repo) to see the original text
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 
